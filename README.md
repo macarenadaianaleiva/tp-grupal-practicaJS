@@ -27,9 +27,8 @@ El proyecto consiste en una serie de ejercicios de lógica programados en JavaSc
 - Nikol Hernandez
 
 ## 🌐 Link a la App Deployada
-
+👉 [https://tp-ejercicios-js.netlify.app/]
 
 ## 📌 Notas
-👉 [https://tp-ejercicios-js.netlify.app/]
 
 - Todos los resultados se muestran por consola, siguiendo la estructura solicitada:  
