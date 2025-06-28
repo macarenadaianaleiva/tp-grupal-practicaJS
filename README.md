@@ -26,6 +26,10 @@ El proyecto consiste en una serie de ejercicios de lógica programados en JavaSc
 - Leiva Macarena
 - Nikol Hernandez
 
+## 🌐 Link a la App Deployada
+
+
 ## 📌 Notas
+👉 [https://tp-ejercicios-js.netlify.app/]
 
 - Todos los resultados se muestran por consola, siguiendo la estructura solicitada:  
